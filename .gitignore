@@ -1,0 +1,14 @@
+# Local terraform directories
+**/.terraform/*
+
+# State files
+/terraform-test/*.tfstate
+
+
+/terraform-test/terraform.tfstate.backup
+
+# Crash log files
+/home/ansible/Terraform-project/terraform-test/terraform.log
+
+# Sensitive data
+/home/ansible/Terraform-project/terraform-test/terraform.tfvars
